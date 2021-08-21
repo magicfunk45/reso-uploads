@@ -7,7 +7,7 @@
 | 24-june (needs split) | broo | OK? | WIP |
 | 25-june (2 files) | funk | OK | OK |
 | 26-june | funk | OK | OK |
-| 28-june | funk | WIP |
+| 28-june | funk | OK | WTP |
 | 29-june (2 files) | funk | WIP | |
 | 30-june | | | |
 | 01-july | | | |
