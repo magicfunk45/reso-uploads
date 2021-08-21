@@ -1,5 +1,5 @@
 | DATE | LOADER | DL | YOUTUBE |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- |
 | 19-june | funk | OK | OK |
 | 21-june | funk | OK | OK |
 | 22-june | broo | OK | OK |
