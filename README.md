@@ -3,13 +3,13 @@
 | 19-june | funk | OK | OK |
 | 21-june | funk | OK | OK |
 | 22-june | broo | OK | OK |
-| 23-june | broo | OK? | WIP |
+| 23-june | broo | OK | OK |
 | 24-june (needs split) | broo | OK? | WIP |
 | 25-june (2 files) | funk | OK | OK |
 | 26-june | funk | OK | OK |
-| 28-june | funk | OK | WTP |
-| 29-june (2 files) | funk | WIP | |
-| 30-june | | | |
+| 28-june | funk | OK | OK |
+| 29-june (2 files) | funk | OK | OK |
+| 30-june | funk | WIP | WIP |
 | 01-july | | | |
 | 02-july | | | |
 | 03-july (2 files) | | | |
