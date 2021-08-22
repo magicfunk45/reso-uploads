@@ -2,7 +2,7 @@
 | --- | --- | --- | --- |
 | 19-june | funk | OK | OK |
 | 21-june | funk | OK | OK |
-| 22-june | broo | OK | OK |
+| 22-june (2 files) | broo | OK | OK |
 | 23-june | broo | OK | OK |
 | 24-june (needs split) | broo | OK? | WIP |
 | 25-june (2 files) | funk | OK | OK |
