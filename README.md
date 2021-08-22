@@ -10,8 +10,8 @@
 | 28-june | funk | OK | OK |
 | 29-june (2 files) | funk | OK | OK |
 | 30-june | funk | OK | OK |
-| 01-july | funk | OK | WIP |
-| 02-july | | | |
+| 01-july | funk | OK | OK |
+| 02-july | funk | WIP | |
 | 03-july (2 files) | | | |
 | 04-july | | | |
 | 06-july | | | |
