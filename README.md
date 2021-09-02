@@ -17,7 +17,7 @@
 | 06-july | broo | OK | NOT YET |
 | 10-july | broo | NOT YET | |
 | 11-july | funk | OK | OK |
-| 12-july (2 files) | OK | OK |
+| 12-july (2 files) | funk | OK | OK |
 | 13-july | | | |
 | 14-july | | | |
 | 15-july | | | |
