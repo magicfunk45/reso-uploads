@@ -15,13 +15,13 @@
 | 03-july (2 files) | funk | OK | OK |
 | 04-july | broo | OK | NOT YET |
 | 06-july | broo | OK | NOT YET |
-| 10-july | broo | NOT YET | |
+| 10-july | funk | OK | OK |
 | 11-july | funk | OK | OK |
 | 12-july (2 files) | funk | OK | OK |
 | 13-july | funk | OK | OK |
 | 14-july | funk | OK | OK |
-| 15-july | | | |
-| 16-july | | | |
+| 15-july | funk | OK | OK |
+| 16-july | funk | OK | OK |
 | 17-july | | | |
 | 18-july | | | |
 | 19-july | | | |
