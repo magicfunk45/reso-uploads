@@ -22,8 +22,8 @@
 | 14-july | funk | OK | OK |
 | 15-july | funk | OK | OK |
 | 16-july | funk | OK | OK |
-| 17-july | | | |
-| 18-july | | | |
+| 17-july | funk | OK | OK |
+| 18-july | funk | OK | |
 | 19-july | | | |
 | 20-july | | | |
 | 23-july | | | |
