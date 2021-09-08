@@ -23,8 +23,8 @@
 | 15-july | funk | OK | OK |
 | 16-july | funk | OK | OK |
 | 17-july | funk | OK | OK |
-| 18-july | funk | OK | |
-| 19-july | | | |
-| 20-july | | | |
+| 18-july | funk | OK | OK |
+| 19-july | funk | OK | OK |
+| 20-july | funk | OK | OK |
 | 23-july | | | |
 | 24-july | | | |
